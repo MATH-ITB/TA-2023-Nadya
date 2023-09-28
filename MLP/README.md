@@ -1,0 +1,1 @@
+Download the mnist data from [here](https://drive.google.com/file/d/1V7g7Q4XPGyVK_iML2A0iqmM2hLdGK_RA/view?usp=sharing).
